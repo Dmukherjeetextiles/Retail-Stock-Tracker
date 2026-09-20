@@ -1,0 +1,6 @@
+{
+  "name": "Retail Flow",
+  "description": "Modern mobile retail inventory management with real-time stock tracking, barcode scanner, invoice OCR, multi-store transfers, staff scheduling, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
